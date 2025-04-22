@@ -1,12 +1,32 @@
-# React + Vite
+# Neon-Calc
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+Neon-Calc is a modern, visually appealing calculator application designed with a sleek, neon-inspired aesthetic. It offers a user-friendly interface for performing basic arithmetic operations and more complex calculations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+-   **Basic Arithmetic:** Addition, subtraction, multiplication, and division.
+-   **Advanced Operations:** Square root, percentage, and more.
+-   **Clear Display:** Easy-to-read input and output.
+-   **Responsive Design:** Adapts to different screen sizes.
+-   **Neon Theme:** Visually engaging with a vibrant neon color scheme.
+-   **Error Handling:** Handles invalid input gracefully.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+-   **Frontend:** React.js & TailwindCSS
+
+## Getting Started
+
+### Installation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/Neon-Calc.git
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd Neon-Calc
+    ```
+3.  **Open `index.html` in your web browser.**
